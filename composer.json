@@ -1,14 +1,8 @@
 {
-    "name": "tebru/gson-php",
+    "name": "atiksoftware/gson-php",
     "description": "Gson for PHP: Convert PHP objects to and from json",
     "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Nate Brunette",
-            "email": "n@tebru.net"
-        }
-    ],
+    "license": "MIT", 
     "require": {
         "php": ">=7.1",
         "phpdocumentor/reflection-docblock": "^3.2.3|^4.0.1|^5",
